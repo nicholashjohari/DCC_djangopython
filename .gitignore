@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+dist/
+/static
+.env
+node_modules
+style.min.css
+.scannerwork
+Dockerfile
